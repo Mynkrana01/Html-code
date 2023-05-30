@@ -1,0 +1,185 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+     background-color: white; 
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.fb{
+    height: 30px;
+    width: 20px;
+    position: absolute;
+    top:  22vh;
+    left: 43vh;   
+    background-color: red;
+}
+.img{ 
+    background-color: white;
+}
+
+
+.text{
+    height: 6vw;
+    width: 80vh;
+    background-color: black;
+    color: white;
+} 
+
+.left{
+    height: 26vh;
+    width: 35vw;
+    position: absolute;
+    top:  22vh;
+    left: 43vh;   
+    background-color: red;
+
+}
+.left1{
+background-color: white;
+height: 13vh;
+width: 35vw;
+}
+.left2{
+    background-color: white;
+    height: 13vh;
+    width: 35vw;
+    }
+
+    .box3{
+        height: 10vh;
+        width: 21vw;
+        background-color: white;
+        color: black;
+        position: absolute;
+        top: 70vh;
+        left: 140vh;
+        margin: 0;
+        font-size: 0.9em;
+    }
+    .right{
+        height: 50vh;
+        width: 25vw;
+        background-color: white;
+        position: absolute;
+        top: 18vh;
+        left: 133vh;
+      
+    }
+    .email{
+         /* this is class */
+        
+        height: 10vh;
+        width: 25vw;
+        background-color: white;
+        padding-left: .6em;
+        padding-bottom: 0.1em; 
+        padding-top: 0.2em;
+        
+        
+    }
+    #em{
+        /* this is id */
+        height: 9vh;
+        width: 24vw;
+        border-radius: 010px;
+        padding-left: 1em;
+        font-size: 1em;
+        color: grey;
+        
+    }
+    .pswrd{
+        /* this is class */
+        height: 10vh;
+        width: 25vw;
+        background-color: white;
+        padding-left: .6em;
+        padding-bottom: 0.1em; 
+        padding-top: 0.2em;
+        
+    }
+
+    #password{
+        /* this is id */
+        height: 9vh;
+        width: 24vw;
+        padding-left: 1em;
+        border-radius: 010px;
+        padding-top: 0.3em;
+        font-size: 1em;
+    }
+    .login{
+         /* this is class */
+        height: 10vh;
+        width: 25vw;
+        background-color: white; 
+        padding-left: .6em;
+        padding-bottom: 0.1em; 
+        padding-top: 0.2em;
+    }
+
+    #Log{
+        /* this is id */
+        height: 9vh;
+        width: 24vw;
+        background-color: blue;
+        color: white; 
+        border-radius: 010px;
+        font-weight: bold;
+        font-size: 1.4em;
+          
+    }
+    .forget{
+        /* this is class */
+        height: 10vh;
+        width: 25vw;
+        background-color:white;
+        padding-left: .7em;
+        padding-bottom: 0.1em; 
+        padding-top: 0.0em;
+    }
+    
+    #Forget{
+        /* this is id */
+        height: 7vh;
+        width: 18vw;
+        position: absolute;
+        left: 4.5em;
+        padding-top: 0.2em;
+        border-radius: 010px;
+        color: blue;
+        background-color: white;
+        border-style: none;
+    }
+    .create{
+        
+        height: 5vh;
+        width: 15vw;
+        background-color:white;
+        padding-left: 0.6em;
+        padding-bottom: 0.1em; 
+        /* padding-top: 0.0em; */
+        padding-right: 5em;
+    }
+
+    #Create{
+        /* this is id */
+        height: 7vh;
+        width: 17vw;
+         position: absolute;
+        left: 4em;
+        
+        background-color: green;
+        color: white;
+        border-radius: 010px;
+        font-size: 1em;
+        font-weight: bold;
+    
+    }
+    
+    
+    
+    
