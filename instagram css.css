@@ -1,0 +1,127 @@
+ *{
+    margin: 0vh;
+    padding: 0vw;
+    
+} 
+.main{
+    background-color:palevioletred;
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient( to bottom right, rgb(113, 113, 227),rgb(221, 59, 86),rgb(230, 163, 39));
+}
+.box1{
+    height: 80vh;
+    width: 25vw;
+background-color: black;
+position: absolute;
+top: 5em;
+left: 37em;
+border-radius: 21px;
+}
+.image{
+    background-color: black;
+     position: absolute;
+    top: 6em;
+    left: 6.5em; 
+}
+
+.email{
+    color: white;
+    /* padding: 3em; */
+    height: 5vh;
+    width: 20vw;
+    position: absolute;
+    top: 12em;
+    border-radius: 5px;
+    padding-left: 11px;
+}
+#em{
+    height: 4.5vh;
+        width: 23vw;
+        border-radius: 07px;
+        position: absolute;
+        font-size: 1em;
+        color: white;
+        background-color: rgb(48, 44, 44);  
+}
+.pswrd{
+    height: 5vh;
+    width: 20vw;
+    color: white;
+    position: absolute;
+    top: 15em;
+    border-radius: 5px;
+    padding-left: 11px;
+}
+#psd{
+    height: 4.5vh;
+        width: 23vw;
+        border-radius: 07px;
+        position: absolute;
+        font-size: 1em;
+        color: white;
+        background-color: rgb(48, 44, 44);
+}
+.forget{
+    
+    position: absolute;
+    top: 17.7em;
+    right: 2em;
+}
+#fgt{
+    /* background-color: rgb(97, 180, 232); */
+    position: absolute;
+    /* color: rgb(8, 121, 227); */
+    bottom: 5em;
+    right: 2.3em;
+
+}
+.login{
+    background-color: rgb(97, 180, 232);
+    color: white;
+    position: absolute;
+    bottom: 15em;
+}
+#img2{
+    
+    position: absolute;
+    right: 8em;
+    
+}
+#log{
+    background-color: blue;
+    height: 3em;
+    width: 20em;
+    color: white;
+    position: absolute;
+    left: 5.2em;
+    border-radius: 5px;
+    top: 2.5em;
+}
+.or{
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 9em;
+    left: 11em;
+}
+.login2
+{  text-align: center;
+    color: lightskyblue;
+    position: absolute;
+    bottom: 6em;
+    left: 8.5em;
+
+}
+#sgin{
+    background-color: black;
+    color: lightskyblue;
+}
+.dont{
+    text-align: center;
+    position: absolute;
+    bottom: 2em;
+    left: 7em;
+    background-color: black;
+    color: white;
+}
